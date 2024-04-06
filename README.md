@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!&fontSize=70)
   
 ### :four_leaf_clover: Skills :four_leaf_clover:
 #### FE </br>
